@@ -3,11 +3,11 @@
 ## Overview
 This analysis is meant to evaluate aspects of the ride sharing business in multiple ways. We will take a look at average fares per ride & driver, total drivers, and rides. We can then escalate recommendations to other stakeholders within the orgranization to assist with decision making. 
 
-### Total Rides
+#### Total Rides
 - Ride volume is dominated by Urban city types due to the amount of people and destinations those areas have to offer. 
 - Rural rides only make up ~5% of the total ride counts, while suburban and urban city types contribute ~26% and ~68% respectively.
 
-### Fares per Ride
+#### Fares per Ride
 - Average fares per ride increase as you move away from urban areas to communities that have their populations spread out over a wider distance. This is expected due to the distance between destinations tends to be greater in Rural than Urban areas.
 
 - Below, we can see both top performing schools in the district as well as those schools that may need additional support to improve student performance. This is based on the overall passing percentage of the number of students. 
