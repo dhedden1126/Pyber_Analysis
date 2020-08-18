@@ -21,5 +21,7 @@ This analysis is meant to evaluate aspects of the ride sharing business in multi
 - Urban areas look to show strength during an ~30 day window from end of February to mid-March.
 - Suburban areas look relatively flat in the first four months of the year. 
 
+![image](https://user-images.githubusercontent.com/67982071/90458675-0715ad00-e0cd-11ea-8b2d-895b421f8318.png)
+
 ## Business Recommendations
  
