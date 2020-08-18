@@ -1,7 +1,9 @@
 # School_District_Analysis
 
 ## Overview
-This analysis is meant to evaluate aspects of the ride sharing business in multiple ways. We will take a look at average fares per ride & driver, total drivers, and rides. We can then escalate recommendations to other stakeholders within the orgranization to assist with decision making. 
+This analysis is meant to evaluate aspects of the ride sharing business in multiple ways. We will take a look at average fares per ride & driver, total drivers, and rides. We can then escalate recommendations to other stakeholders within the orgranization to assist with decision making.
+
+![image](https://user-images.githubusercontent.com/67982071/90458578-c6b62f00-e0cc-11ea-97b7-42f31910f4a4.png)
 
 #### Total Rides
 - Ride volume is dominated by Urban city types due to the amount of people and destinations those areas have to offer. 
