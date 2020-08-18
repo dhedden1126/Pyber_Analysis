@@ -24,4 +24,6 @@ This analysis is meant to evaluate aspects of the ride sharing business in multi
 ![image](https://user-images.githubusercontent.com/67982071/90458675-0715ad00-e0cd-11ea-8b2d-895b421f8318.png)
 
 ## Business Recommendations
- 
+1. The first recommendation is to conduct a cost benefit analysis to determine how to optimize staffing across the three city types. 
+2. Identifying areas of the business that provide an opportunity to increase fares in Urban markets would assist in increasing revenues
+3. Due to the increase in total fares across all three city types from January to end of February, ensure we are staffed & trainined prior to that time frame
