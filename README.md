@@ -1,4 +1,4 @@
-# School_District_Analysis
+# Pyber_Analysis
 
 ## Overview
 This analysis is meant to evaluate aspects of the ride sharing business in multiple ways. We will take a look at average fares per ride & driver, total drivers, and rides. We can then escalate recommendations to other stakeholders within the orgranization to assist with decision making.
